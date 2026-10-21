@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\bin\Debug\net8.0\SistemaConfiguracoes.exe
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\bin\Debug\net8.0\SistemaConfiguracoes.deps.json
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\bin\Debug\net8.0\SistemaConfiguracoes.runtimeconfig.json
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\bin\Debug\net8.0\SistemaConfiguracoes.dll
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\bin\Debug\net8.0\SistemaConfiguracoes.pdb
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.dll
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\refint\SistemaConfiguracoes.dll
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.pdb
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\SistemaConfiguracoes.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Singleton\Exercicio-Singleton\SistemaConfiguracoes\obj\Debug\net8.0\ref\SistemaConfiguracoes.dll
