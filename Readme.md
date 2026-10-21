@@ -1,4 +1,4 @@
-﻿xercício Singleton — Configuração do Sistema
+E﻿xercício Singleton — Configuração do Sistema
 
 📌 Sobre o projeto
 
